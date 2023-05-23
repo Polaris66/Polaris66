@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Polaris66
-- 👀 I’m interested in fun things
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : magic
+- 👀 I’m interested in programming and everything related
+- 🌱 I’m currently learning web development, machine learning and game development
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me : Email
 
 <!---
 Polaris66/Polaris66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
